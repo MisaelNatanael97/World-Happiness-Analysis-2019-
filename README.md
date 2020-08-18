@@ -10,4 +10,4 @@ Some highlights in this project report:
 - Linear regression
 - Feature selection 
 
-Just open the world-happiness-analysis.ipynb file (can be accessed via Google Colab).
+Just open the [world-happiness-analysis.ipynb] (https://github.com/MisaelNatanael97/World-Happiness-Analysis-2019-/blob/master/world-happiness-analysis.ipynb) file (can be accessed via Google Colab).
